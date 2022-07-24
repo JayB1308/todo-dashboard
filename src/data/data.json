@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Design-App",
+    "details": "Modifying Career, Scholarship and Entrance exam screen Acc to new design pattern",
+    "image": "../assets/images/Ellipse 31.png",
+    "status": "none"
+  },
+  {
+    "id": 2,
+    "name": "Prototyping",
+    "details": "Account -> Profile Section",
+    "image": "../assets/images/Ellipse 32.png",
+    "status": "none"
+  },
+  {
+    "id": 3,
+    "name": "Frontend",
+    "details": "As a content annotator, I should be able to add tags in colleges, so that colleges can improve",
+    "image": "../assets/images/Ellipse 31.png",
+    "status": "in-progress"
+  },
+  {
+    "id": 4,
+    "name": "Backend",
+    "details": "Create API for search colleges,exams,scholarships, career pathways",
+    "image": "../assets/images/Ellipse 34.png",
+    "status": "completed"
+  }
+]
